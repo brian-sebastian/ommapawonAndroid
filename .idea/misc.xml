@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/drawable-v24/rect1.xml" value="0.1985" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/drawable/buttom_outline.xml" value="0.1985" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/drawable/oneside_roundrect.xml" value="0.1985" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/drawable/prograss_color.xml" value="0.1985" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/drawable/rect.xml" value="0.1985" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/drawable/roundbutton.xml" value="0.1985" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/drawable/rounded_corner_green.xml" value="0.1985" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/drawable/toolbarbg.xml" value="0.1985" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/layout/activity_cart_list.xml" value="0.33" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/layout/activity_detail_order.xml" value="0.33" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/layout/activity_halaman_utama.xml" value="0.18" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/layout/activity_maps.xml" value="0.25" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/layout/activity_maps_delivery.xml" value="0.33" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/layout/activity_menu.xml" value="0.33" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/layout/activity_registasi.xml" value="0.20081967213114754" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/layout/activity_signing.xml" value="0.18" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/layout/activity_splash.xml" value="0.15896739130434784" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/layout/activity_success_order.xml" value="0.25" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/layout/activity_ulasan.xml" value="0.25" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/layout/activity_verify.xml" value="0.25" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/layout/bag_total.xml" value="0.33" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/layout/dialog_image_zoom.xml" value="0.1735042735042735" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/layout/fragment_accont.xml" value="0.33" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/layout/fragment_menu.xml" value="0.33" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/layout/fragment_order.xml" value="0.25" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/layout/messages.xml" value="0.22" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/layout/single_row_list_detail_order.xml" value="0.33" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/layout/single_row_list_menu.xml" value="0.33" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/layout/single_row_list_order.xml" value="0.25" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/layout/tool_bar.xml" value="0.5" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/layout/toolbar_cart.xml" value="0.33" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/menu/bottom_nav_items.xml" value="0.33" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1985" />
+        <entry key="..\:/AplikasiOmmaPawon/OmmaPawon/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1985" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
